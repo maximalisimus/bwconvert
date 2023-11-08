@@ -1,0 +1,5 @@
+-----
+12.10.2023 - 14:22 GMT +3
+bwconvert 1.0.0:
+Basic stable version.
+-----

@@ -1,0 +1,4 @@
+recursive-include image/ *.svg
+include Makefile
+include LICENSE
+include CHANGELOG.txt
